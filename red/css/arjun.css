@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Patrick+Hand+SC&family=Wellfleet&display=swap');
+
+.arjun{
+	font-family:'Patrick Hand';
+	background-color:#8D0000;
+	color:white;
+	border: 3px solid #00608D;
+	border-radius:10px;
+	width:150px;
+	height:150;
+	padding:10px;
+	margin-left:10px;
+}
